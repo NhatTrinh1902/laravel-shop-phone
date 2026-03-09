@@ -1,0 +1,9 @@
+.page-header {
+    background-image: url("/admin/img/bg-admin.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px 20px;
+    border-radius: 12px;
+    color: white;
+}
